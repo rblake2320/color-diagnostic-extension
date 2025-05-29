@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-green.svg)](https://developer.chrome.com/docs/extensions/)
-[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/yourusername/color-diagnostic-extension/releases)
+[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/rblake2320/color-diagnostic-extension/releases)
 
 A powerful Chrome extension that diagnoses and resolves color display issues on websites, with specialized support for video streaming platforms.
 
@@ -134,9 +134,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📮 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/color-diagnostic-extension/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/color-diagnostic-extension/discussions)
-- **Email**: your.email@example.com
+- **Issues**: [GitHub Issues](https://github.com/rblake2320/color-diagnostic-extension/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/rblake2320/color-diagnostic-extension/discussions)
 
 ---
 
